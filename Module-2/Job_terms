@@ -1,0 +1,41 @@
+
+
+(X)HTML5
+XHTML5 is the XML serialization of HTML5. The syntax is described by the HTML5 specification. However, one shouldn’t be confused since XHTML5 is as an application of XML. In other words, HTML5 and XHTML5 have identical vocabulary but different parsing rules.
+XHTML was developed to make HTML more extensible and increase interoperability with other data formats.
+
+ECMAScript standards
+ECMAScript provides the rules, details, and guidelines that a scripting language must observe to be considered ECMAScript compliant. JavaScript is the coffee-flavored language with which I love to program. ECMAScript is the specification it’s based on.
+
+Linux CLI
+Linux Shell or “Terminal” So, basically, a shell is a program that receives commands from the user and gives it to the OS to process, and it shows the output. Linux's shell is its main part. Its distros come in GUI (graphical user interface), but basically, Linux has a CLI (command line interface).
+
+React
+React is described as “a JavaScript library for building user interfaces”. Initially released in March 2013, React was developed and is maintained by Facebook, which uses React components on several pages (not as a single-page application, however). According to this article by Chris Cordle, React is used far more at Facebook than Angular is at Google. React is also used by Airbnb, Uber, Netflix, Twitter, Pinterest, Reddit, Udemy, Wix, Paypal, Imgur, Feedly, Stripe, Tumblr, Walmart and others (according to Facebook, stackshare and libscore.com).
+
+Angular
+Angular is a TypeScript-based Javascript framework. Developed and maintained by Google, it’s described as a “Superheroic JavaScript MVW Framework”. Angular (also “Angular 2+”, “Angular 2” or “ng2”) is the rewritten, mostly incompatible successor to AngularJS (also “Angular.js” or “AngularJS 1.x”). While AngularJS (the old one) was initially released in October 2010, it is still getting bug-fixes, etc. — the new Angular (sans JS) was introduced in September 2016 as version 2. The newest major release is version 4, as version 3 was skipped. Angular is used by Google, Wix, weather.com, healthcare.gov and Forbes (according to madewithangular, stackshare and libscore.com).
+
+Microservices
+A microservice is a software development technique—a variant of the service-oriented architecture (SOA) architectural style that structures an application as a collection of loosely coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight.
+
+Jenkins
+Jenkins is an open source automation server written in Java. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat. It supports version control tools, including AccuRev, CVS, Subversion, Git, Mercurial, Perforce, ClearCase and RTC, and can execute Apache Ant, Apache Maven and sbt based projects as well as arbitrary shell scripts and Windows batch commands. The creator of Jenkins is Kohsuke Kawaguchi.[3] Released under the MIT License, Jenkins is free software. Builds can be triggered by various means, for example by commit in a version control system, by scheduling via a cron-like mechanism and by requesting a specific build URL.
+
+Travis
+Travis is a hosted service (free for open source) while you have to host, install and configure Jenkins. Travis does not have jobs as in Jenkins. The commands to run to test the code are taken from a file named .travis.yml which sits along your project code. This makes it easy to have different test code per branch since each branch can have its own version of the .travis.yml file.
+
+ViewJS
+Vue.js is a JavaScript front-end framework that was built to organize and simplify web development.
+
+Laravel (PHP framework):
+Laravel is a comprehensive framework designed for rapidly building applications using the MVC architecture. Laravel is currently the most popular PHP framework, with a huge community of developers.
+
+ Zend (PHP framework):
+ · Ideal for enterprise applications
+ · Object oriented
+ · Tons of components for validation, feeds, and forms
+ · Decoupled
+
+Bitcoin Nodes
+Any computer that connects to the Bitcoin network is called a node. Nodes that fully verify all of the rules of Bitcoin are called full nodes.
