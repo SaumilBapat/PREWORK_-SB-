@@ -1,0 +1,24 @@
+Cat
+-Initiate to starting position on game start
+
+-If Left mouse clicked, set orientation left and take ten steps forward
+-If Right mouse clicked, set orientation right and take ten steps forward
+
+
+Mouse
+-Initiate to starting positions on game start
+-Move 10 steps down on each tick
+-When reach bottom of screen, reduce lives variable and reset position
+
+-If event ballMoved Received, check for ballhit (ball position within cat position dimensions)
+-If ballHit, increment Hit Count variable and reset mouse position
+
+Ball
+-When space clicked, set position x,y to equals cat position
+-Move ten steps up with every tick
+-Broadcast ball moved event with every tick
+-Stop moving when reached top
+
+
+Finished Project:
+https://scratch.mit.edu/projects/245422629/
