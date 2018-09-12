@@ -1,0 +1,52 @@
+.redText {
+    color: red;
+}
+
+.blueText {
+    color: blue;
+}
+
+.greenText {
+    color: green;
+}
+
+.bigText {
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.tinyText {
+    font-size: 10px;
+    font-family: cursive;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.boldText {
+    font-weight: bold;
+}
+
+.creativeText {
+    font-family: fantasy;
+}
+
+.combinedText {
+    font-size: 30px;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont{
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+#styledImage{
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+}
